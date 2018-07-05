@@ -1,15 +1,14 @@
 # Welcome to Serialio's support documentation!
-This is a work in progress, so check back for updates soon!
+This is a work in progress so check back for updates soon!
 
 ## iScanBrowser
-- iScanBrowser for iOS
-- iScanBrowser for Android
-
+- [iScanBrowser for iOS](https://github.com/Serialio/support/blob/master/docs/iScanBrowser/isb-ios.md)
+- _iScanBrowser for Android_
 ## SerialMagic
-- SerialMagic Gears for Android
-- SerialMagic Professional
-  - Windows
-  - Mac
-- SerialMagic Keys for iOS
+- _SerialMagic Gears for Android_
+- _SerialMagic Professional_
+  - _Windows_
+  - _Mac_
+- _SerialMagic Keys for iOS_
 
 
