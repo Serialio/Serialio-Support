@@ -7,8 +7,6 @@ iScanBrowser is a powerful tool used to scan data into web applications on an iO
 - Set your homepage
 - Set the start page
 - Manage bookmarks and browsing history
-- Open a new tab
-- Clear private browsing data
 ## The Serial Device Manager (SDM)
 - Pair with a Bluetooth device
 - Device settings
@@ -18,30 +16,48 @@ iScanBrowser is a powerful tool used to scan data into web applications on an iO
     - Adjust the device filter
   - Keep iOS awake
   - Reset device history
+## Web Form Rules (WFR)
+- About Web Form Rules
+- Edit Web From Rules
+  - Scanned value is URL
+  - Limit by device type
+  - Limit by scan values
+  - Setup a scan value delimiter
+  - Select target input
+    - Focused input
+    - Find by ID
+    - Find by name
+    - JavaScript function
+  - Additional options
+    - Only if empty
+    - Simulate a call Form.Submit()
+    - Append data
+    - Execute custom JavaScript 
+- Create a Web Form Rule
+  - Create a new WFR using the dialog
+  - Create a new WFR using the wizard
+- Manage Web Form Rules
+<!--   - Use your Cloud-In-Hand account with Web Form Rules -->
+  - Prioritize Web Form Rules
+  - Remove a Web Form Rule
+  - Disable a Web Form Rule
+- Web Form Rule settings
+  - Setup a no-match sound
+  - Restore the default WFRs (warning)
 ## Settings
 ### Appearance Settings
 - Enable full screen mode
 - Lock the orientation
-### Account Manager
+### Security Settings
 - Enable the Account Manager
-- View saved credentials
-- Disable the Account manager
+- Clear private data
 ### Scanner Settings
 - Define virtual data
 - Enable saving scans to file
 - Enable showing NDEF data in a popup
-#### Unimag Support
-- About ID tech Unimag Support
-- Enable Unimag support
-- Enable showing the connect dialog
-- Change the Unimag reader type
-#### Scanfob 2006 Support
-- Optimize HID input
-- Enable detection of Scanfob brand barcode scanners
-<!-- - Detect MSR tracks
-- Define start and end sentinels
-- Remove MSR sentinels
-- Set a tracks timeout  -->
+- Open NDEF data URLs
+- Enable Scanfob compatibility
+- Set scanner auto-off time (keep idChamp 1128 ON)
 ### Triggers
 - About triggers
 - Trigger locations
@@ -55,38 +71,6 @@ iScanBrowser is a powerful tool used to scan data into web applications on an iO
 - Enable dropping non-printable characters
 ### Logging
 - Submit a log
-## Web Form Rules (WFR)
-- About Web Form Rules
-<!--   - Types of Web Form Rules
-    - Scan
-    - Prompt
-    - PDF 417
-  - Capabilities of Web Form Rules
-    - Scanned value is URL
-    - Limit by device type
-    - Limit by scan values
-    - Setup a scan value delimiter
-    - Select target input
-      - Focused input
-      - Find by ID
-      - Find by name
-      - JavaScript function
-    - Additional options
-      - Only if empty
-      - Simulate a call Form.Submit()
-      - Append data
-      - Execute custom JavaScript -->
-- Create a Web Form Rule
-  - Create a new WFR using the dialog
-  - Create a new WFR using the wizard
-- Manage Web Form Rules
-<!--   - Use your Cloud-In-Hand account with Web Form Rules -->
-  - Prioritize Web Form Rules
-  - Remove a Web Form Rule
-  - Disable a Web Form Rule
-- Web Form Rule settings
-  - Setup a no-match sound
-  - Restore the default WFRs (warning)
 
 
 
