@@ -10,12 +10,27 @@ iScanBrowser is a powerful tool used to scan data into web applications on an iO
 ## The Serial Device Manager (SDM)
 - Pair with a Bluetooth device
 - Device settings
+  - idChamp 1128 example ***
+    - Merge tags data
+      - Merge tags data separator
+![](https://i.imgur.com/igVcJ9k.png)
+    - Show on connect
+    - Constant read mode
+    - EPC post
+    - TID post
+      - TID length
+    - User Data post
+      - User Data length
+    - Adjust power
+    - Set scanner auto-off time (keep idChamp 1128 ON)
+  ![](https://i.imgur.com/3F6seV7.png)
 - SDM settings
   - Enable auto-reconnecting to last device(s)
   - Enable the device filter
     - Adjust the device filter
   - Keep iOS awake
   - Reset device history
+  
 ## Web Form Rules (WFR)
 - About Web Form Rules
 - Edit Web From Rules
@@ -57,7 +72,7 @@ iScanBrowser is a powerful tool used to scan data into web applications on an iO
 - Enable showing NDEF data in a popup
 - Open NDEF data URLs
 - Enable Scanfob compatibility
-- Set scanner auto-off time (keep idChamp 1128 ON)
+- 
 ### Triggers
 - About triggers
 - Trigger locations
