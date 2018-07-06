@@ -10,12 +10,41 @@ iScanBrowser is a powerful tool used to scan data into web applications on an An
 - Enable always showing the address bar
 ## The Serial Device Manager (SDM)
 - Pair with a Bluetooth device
+- SDM actions
+  - Wait for connection
+  - BlueSnap setup
+  - Set NFC chip connect address
+  - Connect BLE via QR code
+  - Connect BLE via NFC chip
+  - 
 - Device settings
 - SDM settings
-  - Enable auto-reconnecting to last device(s)
-  - Enable the device filter
-    - Adjust the device filter
-  - Reset device history
+  - URI app launch
+  - Show battery in notifications
+  - Auto reconnect
+  - Vibrate on scan
+  - Out of range alert
+  - Sound on scan
+    - Custom sound file
+  - Sound on scan present
+    - Custom sound file
+  - Scan filter settings
+    - Toggle filter notice
+    - Never post duplicates
+    - Post duplicates after a pre-defined time
+    - Change the tag filters mode
+      - Disabled
+      - Mode: Ignore
+      - Mode: Allow start with
+    - Setup the tag filters table ***
+      - Switch filter mode (ignore/allow)
+      - Add tag value
+        - Add tag sound
+      - Add tags read to the tag filters table automatically
+  - Scan modification settings
+    - Clip scan data
+      - Clip at start
+      - Clip at end
 ## Settings
 ### Appearance Settings
 - Enable full screen mode
