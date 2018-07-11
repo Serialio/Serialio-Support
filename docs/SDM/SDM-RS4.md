@@ -44,5 +44,13 @@
 ## Tag settings
 ![](https://i.imgur.com/fWbnIc1.png)
 - Write NDEF data
+![](https://i.imgur.com/BLhf3nq.png)
 - Write user data
+![](https://i.imgur.com/zqayXcz.png)
+
+![](https://i.imgur.com/h2v3jlW.png)
+![](https://i.imgur.com/Afaw8I3.png)
+
+
 - Lock tag
+![](https://i.imgur.com/h8xnMHC.png)
