@@ -7,7 +7,7 @@
   - [Set SerialMagic Keys as the default keyboard](https://www.serialio.com/support/how-set-your-default-keyboard-popular-android-devices)
   - [Configure the command key](https://www.serialio.com/support/serialmagic/android/how-configure-command-button-serialmagic-keys-android-keyboard)
   - [Setup prefixes and suffixes for scan data](https://www.serialio.com/support/serialmagic/android/how-set-serialmagic-keys-configure-prefixes-suffixes-scan-data)
-- [Setup NFC Gears](https://www.serialio.com/support/serialmagic/android/using-nfc-gears-serialmagic-gears-android-device-built-in-nfc-reader)
+- Setup NFC Gears
 - Setup the SDM
     - Setup scan filtering
     - [Setup scan modification](https://www.serialio.com/support/serialmagic/ios/how-modify-scan-data-serialmagic-gears)
