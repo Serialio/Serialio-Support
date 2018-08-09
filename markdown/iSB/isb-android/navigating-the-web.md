@@ -1,5 +1,6 @@
 # Navigating the Web
-
+1. Open the sidebar menu by swiping from the left edge of the screen to the center of the screen. 
+2. Tap on "**Settings**."
 ![](https://i.imgur.com/AweUy5x.png)
 
 
