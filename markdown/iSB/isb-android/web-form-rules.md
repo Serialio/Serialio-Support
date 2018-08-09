@@ -1,16 +1,19 @@
 # Web Form Rules
 ## Access The WFR Manager
 1. Open the sidebar menu by swiping from the left edge of the screen to the center of the screen. 
-2. Tap on "Settings."
+2. Tap on "**Settings**."
 ![](https://i.imgur.com/AweUy5x.png)
-3. Tap on "WEB Form Rules."
+3. Tap on "**WEB Form Rules**."
 ![](https://i.imgur.com/bqgH3k1.png)
+
 4. You are now on the Web Form Rules Manager view!
 ![](https://i.imgur.com/24NfF2O.png)
+
 ## Enable Always Showing the Address Bar
-To enable always showing the address bar, select the checkbox to the left of "Always show address bar."
+To enable always showing the address bar, select the checkbox to the left of "**![Always show address bar]()**."
 
 ![](https://i.imgur.com/yUvOhbh.png)
+
 ## Add a New WFR
 To add a new Web Form Rule, tap on the plus symbol below the list of existing Web Form Rules.
 
@@ -19,6 +22,7 @@ To add a new Web Form Rule, tap on the plus symbol below the list of existing We
 iScanBrowser will ask you if you would like to use the WFR wizard. 
 
 ![](https://i.imgur.com/XUyheUg.png)
+
 ### Without the WFR Wizard
 
 ![](https://i.imgur.com/QDlqR9L.png)
